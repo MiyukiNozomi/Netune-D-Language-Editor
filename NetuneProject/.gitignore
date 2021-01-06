@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/netuneproject
+netuneproject.so
+netuneproject.dylib
+netuneproject.dll
+netuneproject.a
+netuneproject.lib
+netuneproject-test-*
+*.exe
+*.o
+*.obj
+*.lst
